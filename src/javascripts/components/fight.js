@@ -12,7 +12,7 @@ const fightComponent = () => {
 
 const fightProgressBar = () => {
   $('#fightProgress').html(
-    `<div class="progress-bar" role="progressbar" style="width: ${strength}%" aria-valuenow="${strength}" aria-valuemin="0" aria-valuemax="100">${strength}% strength</div>`,
+    `<div class="progress-bar" role="progressbar" style="width: ${strength}%" aria-valuenow="${strength}" aria-valuemin="0" aria-valuemax="100">${strength}% Strength</div>`,
   );
 };
 
