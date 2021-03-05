@@ -1,5 +1,9 @@
+import startEat from './components/eat';
+
 import '../styles/main.scss';
 
-const init = () => {};
+const init = () => {
+  startEat();
+};
 
 init();
