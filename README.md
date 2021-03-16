@@ -59,6 +59,8 @@ If you are worried you version will never be as good as the original you can sti
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[Video Walkthrough](https://www.loom.com/share/ced890248c8b444ea238bfac916f36f7)
+
 ### Built With
 
 * [Webpack](https://webpack.js.org/)
